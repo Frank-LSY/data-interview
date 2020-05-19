@@ -1,15 +1,15 @@
-# 目标
+# 目标 5.18
 
 ## 一. python
 - leetcode 一周两题
 - 熟悉numpy，pandas，sklearn
 
 ## 二. SQL
-- [牛客](https://www.nowcoder.com/ta/sql)刷完 (11/61)
+- [牛客](https://www.nowcoder.com/ta/sql)刷完 (24/61)
 - leetcode 刷完 
 
 ## 三. 看书
-- 一周一章，[python数据分析实战](https://evanli.github.io/programming-book-3/Python/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E6%8C%96%E6%8E%98%E5%AE%9E%E6%88%98.pdf)
+- 一周一章，[python数据分析实战](https://evanli.github.io/programming-book-3/Python/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E6%8C%96%E6%8E%98%E5%AE%9E%E6%88%98.pdf) 5.3
 
 ## 四. 如何学业务？※
 - kaggle 任务精学
