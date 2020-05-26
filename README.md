@@ -1,4 +1,8 @@
 # 目标 5.26
+- **[python数据分析实战笔记](https://github.com/Frank-LSY/data-interview/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.md)**
+- **[hadoop笔记](https://github.com/Frank-LSY/data-interview/blob/master/hadoop.md)**
+- **[投递情况](https://github.com/Frank-LSY/data-interview/blob/master/%E6%8A%95%E9%80%92.md)**
+- **[考研数据分析](https://github.com/Frank-LSY/data-interview/tree/master/%E8%80%83%E7%A0%94-da)**
 
 ## 一. python
 - leetcode 一周两题
@@ -13,7 +17,7 @@
 
 ## 四. 如何学业务？※
 - kaggle 任务精学
-	- [hotel booking demand](https://zhuanlan.zhihu.com/p/115499116)
+	- [hotel booking demand](https://zhuanlan.zhihu.com/p/115499116) ✅
 	- [Video Game Sales](https://link.zhihu.com/?target=https%3A//www.kaggle.com/gregorut/videogamesales)
 	- [Us Accident](https://www.kaggle.com/sobhanmoosavi/us-accidents)
 	- [New York City Airbnb OpenData](https://link.zhihu.com/?target=https%3A//www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
@@ -22,6 +26,6 @@
 	- [Lending Club Loan Data](https://link.zhihu.com/?target=https%3A//www.kaggle.com/wendykan/lending-club-loan-data)
 	- [Bitcoin Historical Data](https://link.zhihu.com/?target=https%3A//www.kaggle.com/mczielinski/bitcoin-historical-data)
 
-## 五. 概统基础
+## 五. [概统基础](https://github.com/Frank-LSY/data-interview/labels/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80)
 ## 六. Hadoop
 ## 七. tableau
