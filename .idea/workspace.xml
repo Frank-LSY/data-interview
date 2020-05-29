@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6738fca5-8a4f-4834-8d13-197cb569e514" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数据分析-code-data/chapter-6/code/Largrange_interpolation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析-code-data/chapter-6/code/cm_plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析-code-data/chapter-6/code/dt_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析-code-data/chapter-6/code/lm_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hadoop.md" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析-code-data/chapter-7/code/KMeans_cluster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析-code-data/chapter-7/code/data_clean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析-code-data/chapter-7/code/data_convert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析-code-data/chapter-7/code/data_explore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据分析-code-data/chapter-7/code/zscore_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/数据分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
