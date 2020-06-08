@@ -1,8 +1,12 @@
-# 目标 5.26
+# 目标 6.8
 
 ***
+#### 数据分析步骤
+- **分析业务-定位问题-收集数据-清理数据-建模分析-得出结论-决策优化**
 
-- **[和鲸社区](https://www.kesci.com/)**
+#### **链接**
+- **[datafountain](https://www.datafountain.cn/)**
+- **[datacamp](https://learn.datacamp.com/)**
 - **[python数据分析实战笔记](https://github.com/Frank-LSY/data-interview/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.md)**
 - **[hadoop笔记](https://github.com/Frank-LSY/data-interview/blob/master/hadoop.md)**
 - **[投递情况](https://github.com/Frank-LSY/data-interview/blob/master/%E6%8A%95%E9%80%92.md)**
@@ -13,11 +17,11 @@
 - 熟悉numpy，pandas，sklearn
 
 ## 二. SQL
-- [牛客](https://www.nowcoder.com/ta/sql)刷完 (45/61)
+- [牛客](https://www.nowcoder.com/ta/sql)刷完 (61/61)✅
 - leetcode 刷完 
 
 ## 三. 看书
-- 一周一章，[python数据分析实战](https://evanli.github.io/programming-book-3/Python/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E6%8C%96%E6%8E%98%E5%AE%9E%E6%88%98.pdf) 6.1
+- 一周一章，[python数据分析实战](https://evanli.github.io/programming-book-3/Python/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E6%8C%96%E6%8E%98%E5%AE%9E%E6%88%98.pdf) 9.1
 
 ## 四. 如何学[业务](https://github.com/Frank-LSY/data-interview/labels/%E4%B8%9A%E5%8A%A1%E6%A6%82%E5%BF%B5)？※
 - kaggle 任务精学
