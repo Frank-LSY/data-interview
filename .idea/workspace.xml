@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6738fca5-8a4f-4834-8d13-197cb569e514" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/数据分析-code-data/chapter-8/code/apriori.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析-code-data/chapter-8/code/apriori_rules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析-code-data/chapter-8/code/discretization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据分析-code-data/chapter-8/code/srj.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas.md" beforeDir="false" afterPath="$PROJECT_DIR$/pandas.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/投递.md" beforeDir="false" afterPath="$PROJECT_DIR$/投递.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/数据分析.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
