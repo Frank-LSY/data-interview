@@ -55,8 +55,14 @@ pd.read_sql(sql, con, index_col=None, coerce_float=True, params=None, parse_date
 - **统计计数**	```df[columns].value_counts(normalize=False,sort=descending)```
 - **groupby** ```df.groupby(column)```
 
+***
+
 ### 合并两个DateFrame
 - **append**	```df1.append(df2)``` 前后拼接
 - **concat**	```pd.concat([df1, df2]) ``` 前后拼接/左右拼接；仅限对于index的inner join 和outer join
-- **merge**	```df1.join(df2)``` inner/outer/left/right join 对于index
-- **join**	```pd.merge([df1, df2])``` inner/outer/left/right join 对于指定列
+- **join**	```df1.join(df2)``` inner/outer/left/right join 对于index
+- **merge**	```pd.merge([df1, df2],on='column')``` inner/outer/left/right join 对于指定列
+
+### 基本作图
+- **histogram图**	```df.hist(bins=10)```
+- **bar/line/scatter图**	```df.plot(kind='bar/line/scatter')```

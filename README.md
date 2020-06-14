@@ -16,7 +16,7 @@
 ## 一. python
 - leetcode 一周两题
 - 熟悉numpy，pandas，sklearn
-- DataCamp - **[DataScientist with Python](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=4)** (6/23)
+- DataCamp - **[DataScientist with Python](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=4)** (8/23)
 
 ## 二. SQL
 - [牛客](https://www.nowcoder.com/ta/sql)刷完 (61/61)✅
