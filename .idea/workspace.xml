@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6738fca5-8a4f-4834-8d13-197cb569e514" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas.md" beforeDir="false" afterPath="$PROJECT_DIR$/pandas.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/投递.md" beforeDir="false" afterPath="$PROJECT_DIR$/投递.md" afterDir="false" />
-    </list>
+    <list default="true" id="6738fca5-8a4f-4834-8d13-197cb569e514" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
