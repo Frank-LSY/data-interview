@@ -1,4 +1,4 @@
-# 目标 6.12
+# 目标 6.30
 
 ***
 
@@ -15,8 +15,8 @@
 
 ## 一. python
 - leetcode 一周两题
-- 熟悉numpy，pandas，sklearn
-- DataCamp - **[DataScientist with Python](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=4)** (9/29)
+- 熟悉numpy，**[pandas](https://github.com/Frank-LSY/data-interview/blob/master/pandas.md)**，**[sklearn]()**，**[matplotlib/seaborn](https://github.com/Frank-LSY/data-interview/blob/master/%E7%94%BB%E5%9B%BE.md)**，
+- DataCamp - **[DataScientist with Python](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=4)** (14/29)
 
 ## 二. SQL
 - [牛客](https://www.nowcoder.com/ta/sql)刷完 (61/61)✅
