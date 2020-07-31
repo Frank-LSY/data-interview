@@ -1,4 +1,4 @@
-# 目标 7.17
+# 目标 7.30
 
 ***
 
@@ -14,9 +14,11 @@
 - **[考研数据分析](https://github.com/Frank-LSY/data-interview/tree/master/%E8%80%83%E7%A0%94-da)**
 
 ## 一. python
-- leetcode 一周两题
+- leetcode 一周三题
 - 熟悉numpy，**[pandas](https://github.com/Frank-LSY/data-interview/blob/master/pandas.md)**，**[sklearn]()**，**[matplotlib/seaborn](https://github.com/Frank-LSY/data-interview/blob/master/%E7%94%BB%E5%9B%BE.md)**，
-- DataCamp - **[DataScientist with Python](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=4)** (14/29)
+- DataCamp - **[DataScientist with Python](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=4)** (29/29)✅
+- SQL on DataCamp
+- traditional ML and statistics on DataCamp
 
 ## 二. SQL
 - [牛客](https://www.nowcoder.com/ta/sql)刷完 (61/61)✅
