@@ -16,3 +16,23 @@
 - 使用抽象块来存储，增大磁盘利用空间，简化存储系统设计，便于备份容错。
 - namenode/datanode.
 
+
+# Hadoop Udacity
+## 细节
+- 启动hadoop前。
+	- ① 清除tmp下所有文件
+	- ② 清空log文件
+	- ③ 格式化Namenode: hadoop namenode -format，注意namenode和datanode的clusterId要匹配
+- 配置文件core-site.xml; hdfs-site.xml; mapred-site.xml; yarn-site.xml
+- hadoop-streaming.jar位置$HADOOP_HOME/share/tools/hadoop/hadoop-streaming.jar
+
+## HDFS Map Reduce
+- 文件存储在HDFS当中
+	- 每个文件分成大小一致的文件块，通常是64MB/128MB。
+	- 每个块存储在不同的DataNode上面，原始文件的metadata存储在NameNode上面。
+	- 如果一个DataNode死掉了，那么就会造成原始文件的部分缺失。如何解决？每一个文件块复制三次，然后放在不同的DataNode之中。
+	- 如果NameNode死掉了呢？整个文件都不可访问了。如何解决？① NFS ② 两个NameNode(Active、Standby)。
+- Map Reduce 并行化处理
+	- MapReduce程序被提交到Job Tracker。
+	- Task Tracker运行在各Datanodes上面。
+	- 
