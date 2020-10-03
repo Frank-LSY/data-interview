@@ -35,4 +35,9 @@
 - Map Reduce 并行化处理
 	- MapReduce程序被提交到Job Tracker。
 	- Task Tracker运行在各Datanodes上面。
-	- 
+
+## 一堆坑
+- ```hadoop namenode -format```
+- ```hdfs namenode -format -clusterId xxxx```
+- 配置每个节点时，要指出具体ip地址，不要用localhost
+- 节点健康情况查看[http://frank-lsy.local:8088/cluster/nodes/unhealthy](http://frank-lsy.local:8088/cluster/nodes/unhealthy)通常是内存不足，需要改yarn-site.xml，将最大内存改的更大。

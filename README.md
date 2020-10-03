@@ -6,6 +6,7 @@
 - **分析业务-定位问题-收集数据-清理数据-建模分析-得出结论-决策优化**
 
 #### **链接**
+- **[武汉新楼盘可视化数据分析](https://github.com/fd532/whc_house/blob/master/%E6%AD%A6%E6%B1%89%E6%A5%BC%E7%9B%98%E5%88%86%E6%9E%90.ipynb)**
 - **[datafountain](https://www.datafountain.cn/)**
 - **[datacamp](https://learn.datacamp.com/)**
 - **[python数据分析实战笔记](https://github.com/Frank-LSY/data-interview/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.md)**
