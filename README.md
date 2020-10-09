@@ -6,6 +6,7 @@
 - **分析业务-定位问题-收集数据-清理数据-建模分析-得出结论-决策优化**
 
 #### **链接**
+- **[XGBoost+SHAP简易可解释房价预测](https://github.com/fd532/whc_house/blob/master/shap-%E6%88%BF.ipynb)**
 - **[武汉新楼盘可视化数据分析](https://github.com/fd532/whc_house/blob/master/%E6%AD%A6%E6%B1%89%E6%A5%BC%E7%9B%98%E5%88%86%E6%9E%90.ipynb)**
 - **[datafountain](https://www.datafountain.cn/)**
 - **[datacamp](https://learn.datacamp.com/)**
